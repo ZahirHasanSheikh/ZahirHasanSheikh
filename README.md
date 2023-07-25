@@ -1,4 +1,7 @@
-![MasterHead](https://camo.githubusercontent.com/0d769916207953f9e24c7b78cc40b555ab658a27a3b4541779d5cf02759d74bc/68747470733a2f2f692e696d6775722e636f6d2f6f7432727461532e676966)
+<p align="center">
+  <img src="https://camo.githubusercontent.com/0d769916207953f9e24c7b78cc40b555ab658a27a3b4541779d5cf02759d74bc/68747470733a2f2f692e696d6775722e636f6d2f6f7432727461532e676966">
+</p>
+
 <h1 align="center">Hi 👋, I'm Zahir Sheikh</h1>
 <h3 align="center">A passionate software engineer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
